@@ -13,7 +13,7 @@
 - VScode
 
 # Live Demo
-> The live Demo of the project is [here](https://meri-mg.github.io/To-Do-List/dist/)
+> The live Demo of the project is [here](https://boufanzi.site)
 
 # Getting Started
 ## Prerequisites:
@@ -29,7 +29,7 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
-- Clone this [repository](https://github.com/Meri-MG/To-Do-List-Project) to your locaL machine with `git clone` command.
+- Clone this [repository](https://github.com/msboufanzi/to-do-liste/) to your locaL machine with `git clone` command.
 It should look similar to this git clone https://github.com/smithj/azure-docs.git Enter your github credentials if prompted.
 
 - On the command line, at the project's root, run 'npm install' to install app dependencies.
@@ -39,9 +39,6 @@ It should look similar to this git clone https://github.com/smithj/azure-docs.gi
 - Open the index.html file with the browser of your preference.
 
 
-# 👤 Author 1 - Meri Gogichashvili
-- GitHub: [Meri-MG](https://github.com/Meri-MG) 
-- LinkedIn: [Meri Gogichashvili](https://www.linkedin.com/feed/)
 
 ## 🤝 Contributing
 - Contributions, issues, and feature requests are welcome!
